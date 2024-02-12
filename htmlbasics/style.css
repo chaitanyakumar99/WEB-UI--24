@@ -1,4 +1,4 @@
-thead{
+/* thead{
     background-color: chartreuse;
     color: red;
 }
@@ -16,4 +16,22 @@ table{
 h1{
     text-align: center;
     color:red;
+}
+ */
+h1{
+    color: red;
+}
+.odd{
+    background-color: rgb(57, 97, 197);
+}
+thead{
+    background-color: aqua;
+}
+.even{
+background-color: rgb(164, 206, 67);
+}
+table{
+    width: 50%;
+    height: 500px;
+    text-align: center;
 }
