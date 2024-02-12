@@ -1,0 +1,19 @@
+thead{
+    background-color: chartreuse;
+    color: red;
+}
+.odd{
+    background-color: aqua;
+}
+.even{
+    background-color: rgb(227, 234, 232);
+}
+table{
+    width: 70%;
+    height: 250px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color:red;
+}
