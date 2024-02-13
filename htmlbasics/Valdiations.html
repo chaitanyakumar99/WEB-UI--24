@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form9</title>
+</head>
+
+<body>
+    <form>
+        <fieldset>
+            <legend style="text-align: center;">Validations</legend>
+            <div>
+                <label>User Name:</label>
+                <br>
+                <input type="text" required pattern=".*[A-Z].*" placeholder="at least one uppercase">
+                <!-- The pattern.[A-Z].checks if the input contains at least one uppercase letter. The .*at the beginning and end allows any characters before and after the uppercase" -->
+            </div>
+            <br>
+            <label>Mobile number :</label>
+            <input type="tel" required pattern="[6-9][0-9]{9}">
+            <br><br>
+            <!-- [6-9]: The first digit must be between 6 and 9 [0-9]{9}: The next 9 digit can be any number between 0 and 9, and {9}specifes that exactly 9 of them must be present -->
+            <button type="submit">SUBMIT</button>
+        </fieldset>
+    </form>
+</body>
+
+</html>
