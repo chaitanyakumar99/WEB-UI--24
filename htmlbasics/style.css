@@ -45,3 +45,8 @@ h2{
     color: brown;
     background-color: bisque;
 }
+p{
+    color: rgb(45, 18, 134);
+    background-color: rgb(89, 111, 134);
+    text-align: center;
+}
