@@ -35,3 +35,9 @@ table{
     height: 500px;
     text-align: center;
 }
+     
+h1{
+    color: darkblue;
+    background-color: antiquewhite;
+    text-align: center;
+}
