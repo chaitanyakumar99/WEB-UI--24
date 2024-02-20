@@ -18,9 +18,7 @@ h1{
     color:red;
 }
  */
-h1{
-    color: red;
-}
+
 .odd{
     background-color: rgb(57, 97, 197);
 }
@@ -40,6 +38,7 @@ h1{
     color: darkblue;
     background-color: antiquewhite;
     text-align: center;
+
 }
 h2{
     color: brown;
