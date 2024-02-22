@@ -19,62 +19,72 @@ h1{
 }
  */
 
-.odd{
+.odd {
     background-color: rgb(57, 97, 197);
 }
-thead{
+
+thead {
     background-color: aqua;
 }
-.even{
-background-color: rgb(164, 206, 67);
+
+.even {
+    background-color: rgb(164, 206, 67);
 }
-table{
+
+table {
     width: 50%;
     height: 500px;
     text-align: center;
 }
-     
-h1{
+
+h1 {
     color: darkblue;
     background-color: antiquewhite;
     text-align: center;
 
 }
-h2{
+
+h2 {
     color: brown;
     background-color: bisque;
 }
-p{
+
+p {
     color: rgb(45, 18, 134);
     background-color: rgb(89, 111, 134);
     text-align: center;
 }
-.newone{
+
+.newone {
     color: rgb(17, 167, 52);
     background-color: aquamarine;
-    
+
 }
-.addingnewone{
+
+.addingnewone {
     color: bisque;
     background-color: rgb(178, 156, 128);
 }
-mark{
+
+mark {
     color: rgb(206, 205, 203);
     background-color: rgb(89, 16, 51);
 }
-h4{
+
+h4 {
     color: chartreuse;
     background-color: burlywood;
 }
-h5{
+
+h5 {
     text-align: center;
     color: rgb(5, 195, 132);
     background-color: rgb(204, 200, 195);
 }
-label{
-   
+
+div {
+
     color: darkblue;
     background-color: rgb(21, 212, 212);
-   
+    text-align: center;
 }
-   
